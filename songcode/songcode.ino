@@ -93,4 +93,60 @@ tone(output, G4);
   delay(eighth);
   noTone(output);
   delay(50);
+  //Bar 2
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+ tone(output, A4);
+ delay(sixteenth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output,A4);
+ delay(dottedeighth);
+ noTone(output);
+ delay(50);
+//G4
+tone(output, G4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//F4
+tone(output, F4);
+delay(eighth);
+noTone(output);
+delay(50);
+//G4
+tone(output, G4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
 }

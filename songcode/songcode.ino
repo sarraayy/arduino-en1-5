@@ -149,6 +149,36 @@ tone(output, A4);
  delay(eighth);
  noTone(output);
  delay(50);
+ //B4
+tone(output, B4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//A4
+tone(output, A4);
+ delay(sixteenth);
+ noTone(output);
+ delay(50);
+//G4
+tone(output, G4);
+delay(dottedeighth);
+noTone(output);
+delay(50);
+//F4
+tone(output, F4);
+delay(eighth);
+noTone(output);
+delay(50);
+//E4
+tone(output, E4);
+delay(eighth);
+noTone(output);
+delay(50);
+//F4
+tone(output, F4);
+delay(wholenote);
+noTone(output);
+delay(50);
  
  //Bar 3
 delay (eighth);

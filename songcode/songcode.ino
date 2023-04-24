@@ -149,4 +149,79 @@ tone(output, A4);
  delay(eighth);
  noTone(output);
  delay(50);
+ //Bar 3
+delay (eighth);
+//G4
+tone(output, G4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//G4
+tone(output, G4);
+ delay(eighth);
+ noTone(output);
+ delay(50);
+//F4
+tone(output,F4);
+delay(sixteenth);
+noTone(output);
+delay(50);
+//E4
+tone(output,E4);
+delay(dottedeighth);
+noTone(output);
+delay(50);
+//E4
+tone(output,E4);
+delay(eighth);
+noTone(output);
+delay(50);
+//D4
+tone(output, D4);
+delay(eighth);
+noTone(output);
+delay(50);
+//E4
+tone(output, E4);
+delay(sixteenth);
+noTone(output);
+delay(50);
+//F4
+tone(output, F4);
+delay(sixteenth);
+//F4
+tone(output, F4);
+delay(halfnote);
+//F4
+tone(output, F4);
+delay(eighth);
+noTone(output);
+delay(50);
+//F4
+tone(output, F4);
+delay(eighth);
+noTone(output);
+delay(50);
+//F4
+tone(output, F4);
+delay(eighth);
+noTone(output);
+delay(50);
+//D4
+tone(output, D4);
+delay(sixteenth);
+noTone(output);
+delay(50);
+//A4
+tone(output, A4);
+delay(sixteenth);
+//A4
+tone(output, E4);
+delay(wholenote);
+
+
+//END
+noTone(output);
+
+
 }
